@@ -13,14 +13,14 @@
 
 ---
 
-## About me
+## About me:
 > I study at BSU at the Faculty of Radiophysics and Computer Technologies. My **goal** is to **complete the RS2021Q1** course without dropping out of university.
 > I love challenging tasks, especially when I see the result. I want to challenge myself, get out of my comfort zone, and gain experience and a lot of knowledge.
 
-## Skils
+## Skils:
 ![C++](https://freepngimg.com/thumb/c++/2-2-c++-png-clipart-thumb.png) ![java](https://freepngimg.com/thumb/java/85390-java-language-text-programming-logo-programmer-thumb.png) ![Git](https://git-scm.com/images/logos/logomark-black@2x.png)
 
-## Сode
+## Сode:
 ```
 # code block
 protected void turnLeft90(Graphics2D canvas){
@@ -32,7 +32,7 @@ protected void turnLeft90(Graphics2D canvas){
     }
 ```
 
-## Work experience
+## Work experience:
 
 ## Education:
 - #### Base
@@ -42,3 +42,8 @@ protected void turnLeft90(Graphics2D canvas){
 - #### Сourses:
    - 2020 3 moth school *YES* (english course).  
 
+## English language:
+
+- Level: A1-A2
+- language practice:
+   - 2017,2018: Summer camp "*Fantasy camp*". Volunteers from different countries came to the camp as counselors and we constantly communicated.  
