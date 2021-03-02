@@ -1,4 +1,5 @@
 # **Svyatoslav Yaroshevich**
+
 ---
  ## My contacts:
 - ###  **Аddress:** 
@@ -10,3 +11,5 @@
 - ### **Git:**
   - [Svyatoslau](https://github.com/Svyatoslau)
 ---
+> I am studying at the BSU University at the Radiophysics department. My **goal** is to **complete the RS2021Q1** course without dropping out of university.
+> I love challenging tasks, especially when I see the result. I want to challenge myself, get out of my comfort zone, and gain experience and a lot of knowledge.
