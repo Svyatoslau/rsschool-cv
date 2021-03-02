@@ -34,3 +34,11 @@ protected void turnLeft90(Graphics2D canvas){
 
 ## Work experience
 
+## Education:
+- #### Base
+   - 2008-2017 1-9 grade school №154.
+   - 2017-2019 10-11 grade lyceum №1 (phys.).
+   - 2019-2023 BSU: the Faculty of Radiophysics and Computer Technologies.
+- #### Сourses:
+   - 2020 3 moth school *YES* (english course).  
+
