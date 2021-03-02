@@ -3,7 +3,7 @@
 ---
 ##    My contacts:
 - ###  **Аddress:** 
-   - Belarus, Minsk      
+   - Minsk, Belarus     
 - ### **Email:**   
    - svyatyar2@gmail.com
 - ### **Phone:**   
@@ -31,3 +31,6 @@ protected void turnLeft90(Graphics2D canvas){
         canvas.transform(at);
     }
 ```
+
+## Work experience
+
