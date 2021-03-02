@@ -40,7 +40,7 @@ protected void turnLeft90(Graphics2D canvas){
    - 2017-2019 10-11 grade lyceum №1 (phys.).
    - 2019-2023 BSU: the Faculty of Radiophysics and Computer Technologies.
 - #### Сourses:
-   - 2020: 3 month school *YES* (english course).  
+   - 2020: three months school *YES* (english course).  
 
 ## English language:
 
