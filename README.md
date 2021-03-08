@@ -1,1 +1,1 @@
-https://Svyatoslau.github.io/rsschool-cv/cv
+https://Svyatoslau.github.io/rsschool-cv/
