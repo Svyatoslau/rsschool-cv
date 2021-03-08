@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CV</title>
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    <header><h1>CV Svyatoslav Yaroshevich</h1></header>
+    <main>
+      <h2>My contacts</h2>
+      <section class="container-contact">
+        <div class="contact">
+          <ul>
+            <li>
+              <h3>Adress:</h3>
+              <ul>
+                <li>Minsk, Belarus</li>
+              </ul>
+            </li>
+            <li>
+              <h3>Email:</h3>
+              <ul>
+                <li>svyatyar2@gmail.com</li>
+              </ul>
+            </li>
+            <li>
+              <h3>Phone:</h3>
+              <ul>
+                <li>+375-44-5750827</li>
+              </ul>
+            </li>
+            <li>
+              <h3>Git:</h3>
+              <ul>
+                <li>
+                  <a href="https://github.com/Svyatoslau" class="github"
+                    >Svyatoslau</a
+                  >
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <picture class="av">
+          <img src="/image/av.jpg" alt="photo" />
+        </picture>
+      </section>
+      <h2>About me</h2>
+      <section class="container me">
+        <article>
+          I study at BSU at the Faculty of Radiophysics and Computer
+          Technologies. My <strong>goal</strong> is to
+          <strong>complete the RS2021Q1</strong>
+          course without dropping out of university. I love challenging tasks,
+          especially when I see the result. I want to challenge myself, get out
+          of my comfort zone, and gain experience and a lot of knowledge.
+        </article>
+      </section>
+      <h2>Skils</h2>
+      <section class="container skils">
+        <ul>
+          <li>
+            <picture class="skill"
+              ><img src="/image/c++.png" alt="c++" />
+            </picture>
+          </li>
+          <li>
+            <picture class="skill"
+              ><img src="/image/java.png" alt="java"
+            /></picture>
+          </li>
+          <li>
+            <picture class="skill"
+              ><img src="/image/git.png" alt="git"
+            /></picture>
+          </li>
+          <li>
+            <picture class="skill"
+              ><img src="/image/html.png" alt="html"
+            /></picture>
+          </li>
+          <li>
+            <picture class="skill"
+              ><img src="/image/css.png" alt="css"
+            /></picture>
+          </li>
+        </ul>
+      </section>
+      <h2>Code block</h2>
+      <section class="container-code">
+        <div class="code">
+          protected void turnLeft90(Graphics2D canvas){<br />
+          <div class="code-block">
+            // матрица перехода плюс смещенные координатны начальной точки<br />
+            double w=getWidth();<br />
+            double h=getHeight();<br />
+            AffineTransform at = new
+            AffineTransform(0,-1*(h/w),1*(w/h),0,0,getHeight());<br />
+            canvas.transform(at);
+          </div>
+          }
+        </div>
+      </section>
+      <h2>Work experience</h2>
+      <section class="experience"></section>
+      <h2>Education</h2>
+      <section class="education">
+        <div class="box-education">
+          <div class="base">
+            <h3>Base</h3>
+            <p>
+              2008-2017 1-9 grade school №154.<br />
+              2017-2019 10-11 grade lyceum №1 (phys.). <br />
+              2019-2023 BSU: the Faculty of Radiophysics and Computer
+              Technologies.
+            </p>
+          </div>
+          <div class="course">
+            <h3>Course</h3>
+            <p>2020 3 moth school *YES* (english course).</p>
+          </div>
+        </div>
+      </section>
+      <h2>English language</h2>
+      <section class="english">
+        <div class="level">Level: A1-A2</div>
+        <div class="practice">
+          <p>
+            language practice 2017,2018: Summer camp "Fantasy camp".
+            Volunteers from different countries came to the camp as counselors
+            and we constantly communicated.
+          </p>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="foot git">
+        <a href="https://github.com/Svyatoslau">Git: Svyatoslau</a>
+      </div>
+      <div class="foot courseRS">
+        <a href="https://rs.school/js/"
+          >Курс: RS</a>
+      </div>
+      <div class="foot year">2020</div>
+    </footer>
+  </body>
+</html>
