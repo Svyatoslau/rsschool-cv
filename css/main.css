@@ -91,9 +91,21 @@ a{
     padding: 30px;
     margin: 10px
 }
-
-
-
+footer{
+    background: rgb(32, 29, 68);
+    color: white;
+    padding: 20px;
+    display: flex;
+}
+.foot{
+    padding-left: 40px;
+}
+.git a{
+    color: white;
+}
+.courseRS a{
+    color: white;
+}
 
 
 
